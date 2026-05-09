@@ -1,6 +1,8 @@
 # Leviathan DNA
 ### Behavioral Fingerprinting Engine for Offensive Tool Detection
 
+> 🇧🇷 [Leia em Português](README.pt-BR.md)
+
 > *"Attackers change hashes. They change names. They recompile. But operational behavior remains consistent."*
 
 Leviathan DNA is an experimental **real-time behavioral analysis engine** that profiles running processes by their operational patterns — not by signatures, hashes, or file names. It detects offensive tools by modeling *what they do*, not *what they are*.
